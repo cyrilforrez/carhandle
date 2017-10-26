@@ -10,7 +10,7 @@ header div {
   width: 100%;
 }
 
-#home, #detail{
+#home, #ajout{
   margin-left: 2%;
 }
 
@@ -19,7 +19,7 @@ header div {
 margin: auto;
 margin-top: 5%;
 margin-bottom: 7%;
-line-height: 3.5;
+
 }
 
 #divboutton{
