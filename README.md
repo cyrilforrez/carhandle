@@ -1,4 +1,4 @@
-<p The project.
+<p> The project.
 Create a vehicle management application. This very basic application will:
 - See all vehicles
 - See a vehicle in detail
