@@ -1,6 +1,6 @@
 <?php
-require ('includes/head.php');
-require ('includes/header.php');
+require('includes/head.php');
+require('includes/header.php');
  ?>
 
     <table class="highlight bordered responsive-table" id="tableau" >
@@ -10,6 +10,7 @@ require ('includes/header.php');
               <th>Marque</th>
               <th>Modele</th>
               <th>Prix</th>
+
           </tr>
         </thead>
 
@@ -19,18 +20,24 @@ require ('includes/header.php');
             <td>scania</td>
             <td>...</td>
             <td>40,000e</td>
+            <td><form action="#">
+               <p>
+                 <input type="checkbox" id="test5" />
+                 <label for="test5"></label>
+               </p>
+            </form></td>
           </tr>
           <tr>
-            <td>Alan</td>
-            <td>Jellybean</td>
             <td></td>
-            <td>$3.76</td>
+            <td></td>
+            <td></td>
+            <td></td>
           </tr>
           <tr>
-            <td>Jonathan</td>
-            <td>Lollipop</td>
             <td></td>
-            <td>$7.00</td>
+            <td></td>
+            <td></td>
+            <td></td>
           </tr>
         </tbody>
       </table>
@@ -41,6 +48,6 @@ require ('includes/header.php');
 
 
 <?php
-require ('includes/foot.php');
-require ('includes/footer.php');
+require('includes/foot.php');
+require('includes/footer.php');
  ?>
