@@ -10,16 +10,15 @@ require('includes/header.php');
               <th>Marque</th>
               <th>Modele</th>
               <th>Prix</th>
-
           </tr>
         </thead>
 
         <tbody>
           <tr>
-            <td>camion</td>
-            <td>scania</td>
-            <td>...</td>
-            <td>40,000e</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
             <td><form action="#">
                <p>
                  <input type="checkbox" id="test5" />
@@ -44,6 +43,7 @@ require('includes/header.php');
 
 <div id="divboutton">
   <a class="waves-effect waves-light btn deep-orange darken-3">supprimer</a>
+  <a class="waves-effect waves-light btn deep-orange darken-3">modifier</a>
 </div>
 
 

@@ -1,0 +1,19 @@
+<?php
+
+try
+
+{
+
+    $bdd = new PDO('mysql:host=localhost;dbname=carhandle;charset=utf8', 'root', 'DarkShot666');
+
+}
+
+catch (Exception $e)
+
+{
+
+        die('Erreur : ' . $e->getMessage());
+
+}
+
+?>

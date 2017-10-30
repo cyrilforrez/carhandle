@@ -2,7 +2,7 @@
   <div class="tittle grey darken-3">
     <a href="#" id="Tittle" class="white-text">OccazOxa</a> <br>
   </div>
-  <nav>
+  <nav id="changecolor">
      <div class="nav-wrapper grey darken-3">
        <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
        <ul class="left hide-on-med-and-down" id="nav">
@@ -41,11 +41,14 @@
                  <label for="description">Description</label>
                </div>
              </div>
+             <div class="row">
+               <div class="input-field col s12">
+                <button class="btn waves-effect waves-light" type="submit" name="action">Submit
+                </button>
+              </div>
+            </div>
            </form>
          </div>
-           </div>
-           <div class="modal-footer">
-             <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
            </div>
          </div></li>
        </ul>
@@ -86,11 +89,14 @@
                  <label for="description">Description</label>
                </div>
              </div>
+             <div class="row">
+               <div class="input-field col s12">
+                <button class="btn waves-effect waves-light" type="submit" name="action">Submit
+                </button>
+              </div>
+            </div>
            </form>
          </div>
-           </div>
-           <div class="modal-footer">
-             <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
            </div>
          </div></li>
        </ul>
