@@ -1,5 +1,5 @@
 <?php
-require('.gitignore'); // apel de connexion plus model
+require('model/connexion_sql.php'); // apel de connexion plus model
 require('model/addvehicule.php');
 
 if (isset($_POST["type"]) and isset($_POST["marque"]) and isset($_POST["model"]) and

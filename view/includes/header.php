@@ -12,7 +12,7 @@
          <div id="modal1" class="modal">
            <div class="modal-content">
              <div class="row">
-           <form class="col s12">
+           <form class="col s12" method="post" action=" controler/accueil.php">
              <div class="row">
                <div class="input-field col s12">
                  <input placeholder="camion, voiture, moto" id="type" type="text" class="validate">
@@ -43,7 +43,7 @@
              </div>
              <div class="row">
                <div class="input-field col s12">
-                <button class="btn waves-effect waves-light" type="submit" name="action">Submit
+                <button class="btn waves-effect waves-light" type="submit">Submit
                 </button>
               </div>
             </div>
