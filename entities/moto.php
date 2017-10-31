@@ -1,6 +1,4 @@
 <?php
-class moto extends vehicules {
-  
+class moto extends vehicules
+{
 }
-
- ?>

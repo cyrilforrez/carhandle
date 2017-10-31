@@ -4,7 +4,6 @@ require('model/addvehicule.php');
 
 if (isset($_POST["type"]) and isset($_POST["marque"]) and isset($_POST["model"]) and
 isset($_POST["prix"]) and isset($_POST["description"])) {
-
 }  //si ya du post pour creer
   // if marque
     //new objet

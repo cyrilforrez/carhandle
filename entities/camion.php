@@ -1,6 +1,4 @@
 <?php
-class camion extends vehicules {
-  
+class camion extends vehicules
+{
 }
-
- ?>

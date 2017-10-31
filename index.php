@@ -1,3 +1,3 @@
-<?php
+ <?php
 
-  require ('controler/accueil.php');
+  require('controler/accueil.php');

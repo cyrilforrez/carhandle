@@ -6,26 +6,25 @@ header div {
   text-align: center;
 }
 
-#nav{
+#nav {
   width: 100%;
 }
 
-#home, #ajout{
+#home, #ajout {
   margin-left: 2%;
 }
 
-#tableau{
+#tableau {
   width: 90%;
-margin: auto;
-margin-top: 5%;
-margin-bottom: 7%;
-
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 7%;
 }
 
-#divboutton{
+#divboutton {
   margin: 2%;
 }
 
-#changecolor{
-  color:#000;
+#changecolor {
+  color: #000;
 }
